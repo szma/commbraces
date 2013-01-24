@@ -20,3 +20,9 @@ Usage:
 -------
 
 python commbrace.py < before.py > after.py
+
+
+This code is based on:
+curlypy.py by Niall McCarroll  
+
+Distributed under the MIT/X11 License (http://www.mccarroll.net/snippets/license.txt)
