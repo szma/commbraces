@@ -8,18 +8,12 @@ Simple but useful "braces" for python:
 
 Example:
 --------
-<code>
-def mytestfun(n): #[
-    for i in range(n):#[
-    print i
-    #here is some pretty complicated code...not wrong indentation wanted!
-#]
-#]        
-</code>
+see test.py
+
 Usage:
 -------
 
-python commbrace.py < before.py > after.py
+<code>python commbrace.py < before.py > after.py</code>
 
 
 This code is based on:
